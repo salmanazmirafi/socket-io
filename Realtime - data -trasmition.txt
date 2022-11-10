@@ -1,1 +1,40 @@
-night 8 to 10
+===========
+ Socket.io
+===========
+
+* WebSocket uses TCP protocol (Tramsmission Control Protocol)
+* socket io input
+
+yarn add express
+yarn add socket.io
+yarn add nodemon
+
+* socket io event (Server Side)
+
+Connect
+Message
+Disconnect
+Reconnect
+Ping
+Join
+Leave
+
+* socket io event (Client Side)
+
+Connect
+Connect_error
+Connect_timeout
+Reconnect
+
+
+* Custom Events
+
+socket.emit()
+
+===========
+  WebRTC
+===========
+
+* WebRTC uses UDP protocol (User Datagram Protocol)
+
+
