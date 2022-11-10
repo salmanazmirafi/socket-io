@@ -31,6 +31,10 @@ Reconnect
 
 socket.emit()
 
+* Broadcasting
+
+To broadcast an event io.sockets.emit method
+
 ===========
   WebRTC
 ===========
