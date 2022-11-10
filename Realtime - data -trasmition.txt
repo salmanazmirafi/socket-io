@@ -1,1 +1,20 @@
-night 8 to 10
+===========
+ Socket.io
+===========
+
+* WebSocket uses TCP protocol (Tramsmission Control Protocol)
+
+yarn add express
+yarn add socket.io
+yarn add nodemon
+
+
+
+
+===========
+  WebRTC
+===========
+
+* WebRTC uses UDP protocol (User Datagram Protocol)
+
+
