@@ -10,7 +10,6 @@ yarn add socket.io
 yarn add nodemon
 
 * socket io event (Server Side)
-
 Connect
 Message
 Disconnect
@@ -20,7 +19,6 @@ Join
 Leave
 
 * socket io event (Client Side)
-
 Connect
 Connect_error
 Connect_timeout
@@ -28,12 +26,13 @@ Reconnect
 
 
 * Custom Events
-
 socket.emit()
 
 * Broadcasting
-
 To broadcast an event io.sockets.emit method
+
+* Namespace
+
 
 ===========
   WebRTC
